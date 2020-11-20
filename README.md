@@ -1,3 +1,2 @@
 # messi
-No
 homework2
